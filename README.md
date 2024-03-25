@@ -29,4 +29,17 @@ We finally observed that the **admission ratio at the University of Colorado Bou
 
 <img src="https://github.com/santhosh1299/us_graduate_admission_decision_patterns/raw/master/charts/admission_testscore.png" alt="Admittance Rate" width="500" height="450">
 
+### Hypothesis Test Results
+
+#### Analysis 1: 
+**Hypothesis:** The proportion of residents getting admitted is more than non-residents for master's degree in the U.S.
+
+**Result:** The analysis revealed that the ratio of residents getting admitted is significantly higher than that of non-residents.
+
+#### Analysis 2:
+**Hypothesis:** GRE/GMAT scores have an influence on application conversion even after COVID.
+
+**Result:** The data suggests that the ratio of applicants submitting the test scores getting admitted is higher post-COVID compared to pre-COVID. Therefore, GRE/GMAT scores continue to influence application conversion even after the COVID-19 pandemic.
+
+These findings provide valuable insights into admission trends and factors affecting admission outcomes for master's degree programs in the U.S.
 
