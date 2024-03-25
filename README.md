@@ -11,21 +11,22 @@ We finally observed that the **admission ratio at the University of Colorado Bou
 
 ### Trend of Applicants
 
-![Admittance Rate](https://github.com/santhosh1299/us_graduate_admission_decision_patterns/blob/master/charts/admission_trend.png)
+<img src="https://github.com/santhosh1299/us_graduate_admission_decision_patterns/raw/master/charts/admission_trend.png" alt="Admittance Rate" width="500" height="450">
 
 ### Admitted and Enrolled ratio since 2011
 
-![Admittance Rate](https://github.com/santhosh1299/us_graduate_admission_decision_patterns/blob/master/charts/admission_ratio.png)
+<img src="https://github.com/santhosh1299/us_graduate_admission_decision_patterns/raw/master/charts/admission_ratio.png" alt="Admittance Rate" width="500" height="450">
 
 ### Admission Course Share
 
-![Admittance Rate](https://github.com/santhosh1299/us_graduate_admission_decision_patterns/blob/master/charts/admission_share.png)
+<img src="https://github.com/santhosh1299/us_graduate_admission_decision_patterns/raw/master/charts/admission_share.png" alt="Admittance Rate" width="500" height="450">
 
 ### Ratio of applicants with and without Test score
 
-![Admittance Rate](https://github.com/santhosh1299/us_graduate_admission_decision_patterns/blob/master/charts/admission_pie_testscore.png)
+<img src="https://github.com/santhosh1299/us_graduate_admission_decision_patterns/raw/master/charts/admission_pie_testscore.png" alt="Admittance Rate" width="500" height="450">
 
 #### Admittance rate for test score submission
 
-![Admittance Rate](https://github.com/santhosh1299/us_graduate_admission_decision_patterns/blob/master/charts/admission_testscore.png)
+<img src="https://github.com/santhosh1299/us_graduate_admission_decision_patterns/raw/master/charts/admission_testscore.png" alt="Admittance Rate" width="500" height="450">
+
 
