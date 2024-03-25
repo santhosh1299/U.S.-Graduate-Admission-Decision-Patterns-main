@@ -7,3 +7,25 @@ The dataset used to generate the findings in the report is provided through the 
 We finally observed that the **admission ratio at the University of Colorado Boulder is influenced by various factors such as the applicant’s residency status and submission of standardized test scores**- which was used to estimate the trends of the entire United States admission process. 
 
 [Presentation Link](https://youtu.be/WQo1--4bqmY?si=bKDAB4UWuEPEtZq0)
+
+
+### Trend of Applicants
+
+![Admittance Rate](https://github.com/santhosh1299/us_graduate_admission_decision_patterns/blob/master/charts/admission_trend.png)
+
+### Admitted and Enrolled ratio since 2011
+
+![Admittance Rate](https://github.com/santhosh1299/us_graduate_admission_decision_patterns/blob/master/charts/admission_ratio.png)
+
+### Admission Course Share
+
+![Admittance Rate](https://github.com/santhosh1299/us_graduate_admission_decision_patterns/blob/master/charts/admission_share.png)
+
+### Ratio of applicants with and without Test score
+
+![Admittance Rate](https://github.com/santhosh1299/us_graduate_admission_decision_patterns/blob/master/charts/admission_pie_testscore.png)
+
+#### Admittance rate for test score submission
+
+![Admittance Rate](https://github.com/santhosh1299/us_graduate_admission_decision_patterns/blob/master/charts/admission_testscore.png)
+
